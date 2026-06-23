@@ -9,6 +9,7 @@ Here is my leetcode progress: ✌️
 | [0001-two-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/tamanna-five/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tamanna-five/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tamanna-five/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ Here is my leetcode progress: ✌️
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tamanna-five/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
