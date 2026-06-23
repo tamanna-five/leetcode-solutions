@@ -54,6 +54,7 @@ Here is my leetcode progress: ✌️
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/tamanna-five/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/tamanna-five/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/tamanna-five/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tamanna-five/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
