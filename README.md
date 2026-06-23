@@ -42,6 +42,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/tamanna-five/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/tamanna-five/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -64,6 +65,7 @@ Here is my leetcode progress: ✌️
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/tamanna-five/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tamanna-five/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
@@ -71,6 +73,7 @@ Here is my leetcode progress: ✌️
 | ------- |
 | [0058-length-of-last-word](https://github.com/tamanna-five/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/tamanna-five/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/tamanna-five/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tamanna-five/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
