@@ -31,6 +31,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ Here is my leetcode progress: ✌️
 | ------- |
 | [0007-reverse-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -89,6 +91,7 @@ Here is my leetcode progress: ✌️
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tamanna-five/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
