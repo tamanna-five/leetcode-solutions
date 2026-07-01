@@ -93,6 +93,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/tamanna-five/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tamanna-five/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -123,4 +124,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tamanna-five/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tamanna-five/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
